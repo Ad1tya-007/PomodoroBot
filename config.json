@@ -1,0 +1,13 @@
+{
+  "prefix": "!",
+  "studyBreakDuration": 5,
+  "defaultStudyDuration": 25,
+  "music": {
+    "defaultVolume": 0.5,
+    "playlist": []
+  },
+  "database": {
+    "type": "sqlite",
+    "path": "./data/notes.db"
+  }
+}
